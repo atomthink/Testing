@@ -1,0 +1,13 @@
+[1mdiff --git a/gitTest.java b/gitTest.java[m
+[1mindex 2de1c19..db69ba9 100644[m
+[1m--- a/gitTest.java[m
+[1m+++ b/gitTest.java[m
+[36m@@ -2,7 +2,7 @@[m [mpackage test;[m
+ [m
+ public class gitTest {[m
+     public static void main(String[] args) {[m
+[31m-        System.out.println("git testing... main");[m
+[32m+[m[32m        System.out.println("git testing...main");[m
+         System.out.println("editing in f1 branch");[m
+     }[m
+ }[m
